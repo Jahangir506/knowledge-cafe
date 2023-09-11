@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "cover": "https://i.ibb.co/x3XKhhv/7674576.jpg",
+    "title": "Sample Article 1",
+    "author_img": "https://i.ibb.co/jg8NXzV/girl-sitting-table-holding-pencil.jpg",
+    "posted_date": "2023-09-11",
+    "reading_time": 10,
+    "hashtags": ["#example", "#sample", "#data"]
+  },
+  {
+    "id": 2,
+    "cover": "https://i.ibb.co/WfJtwMs/5383866.jpg",
+    "title": "Sample Article 2",
+    "author_img": "https://i.ibb.co/4TpZzHT/jacket-happy-school-brown-hair-digital.jpg",
+    "posted_date": "2023-09-10",
+    "reading_time": 12,
+    "hashtags": ["#example", "#sample", "#data"]
+  },
+  {
+    "id": 3,
+    "cover": "https://i.ibb.co/hYxCM0G/5859921.jpg",
+    "title": "Sample Article 3",
+    "author_img": "https://i.ibb.co/ypMdJxV/woman-writing-something-diary.jpg",
+    "posted_date": "2023-09-09",
+    "reading_time": 8,
+    "hashtags": ["#example", "#sample", "#data"]
+  },
+  {
+    "id": 4,
+    "cover": "https://i.ibb.co/Mk8YtDW/5859915.jpg",
+    "title": "Sample Article 4",
+    "author_img": "https://i.ibb.co/RP4Zx2H/relaxing-with-book-latte.jpg",
+    "posted_date": "2023-09-08",
+    "reading_time": 15,
+    "hashtags": ["#example", "#sample", "#data"]
+  },
+  {
+    "id": 5,
+    "cover": "https://i.ibb.co/Mk8YtDW/5859915.jpghttps://i.ibb.co/nm1Z4Yb/5876625.jpg",
+    "title": "Sample Article 5",
+    "author_img": "https://i.ibb.co/2MC62Gg/img-5.jpg",
+    "posted_date": "2023-09-07",
+    "reading_time": 7,
+    "hashtags": ["#example", "#sample", "#data"]
+  }
+]
