@@ -1,36 +1,40 @@
 [
   {
     "id": 1,
-    "cover": "https://i.ibb.co/x3XKhhv/7674576.jpg",
+    "cover": "https://i.ibb.co/gjw5Q5C/1.jpg",
     "title": "Sample Article 1",
-    "author_img": "https://i.ibb.co/jg8NXzV/girl-sitting-table-holding-pencil.jpg",
+    "author": "Modei Inde",
+    "author_img": "https://i.ibb.co/mBntVch/boy1.png",
     "posted_date": "2023-09-11",
     "reading_time": 10,
     "hashtags": ["#example", "#sample", "#data"]
   },
   {
     "id": 2,
-    "cover": "https://i.ibb.co/WfJtwMs/5383866.jpg",
+    "cover": "https://i.ibb.co/xMLyd0D/2.png",
     "title": "Sample Article 2",
-    "author_img": "https://i.ibb.co/4TpZzHT/jacket-happy-school-brown-hair-digital.jpg",
+    "author": "Helan toe",
+    "author_img": "https://i.ibb.co/FH6tDWr/boy2.jpg",
     "posted_date": "2023-09-10",
     "reading_time": 12,
     "hashtags": ["#example", "#sample", "#data"]
   },
   {
     "id": 3,
-    "cover": "https://i.ibb.co/hYxCM0G/5859921.jpg",
+    "cover": "https://i.ibb.co/t2Bf2SP/3.png",
     "title": "Sample Article 3",
-    "author_img": "https://i.ibb.co/ypMdJxV/woman-writing-something-diary.jpg",
+    "author": "Tony Kaka",
+    "author_img": "https://i.ibb.co/mzgWP7R/girl1.jpg",
     "posted_date": "2023-09-09",
     "reading_time": 8,
     "hashtags": ["#example", "#sample", "#data"]
   },
   {
     "id": 4,
-    "cover": "https://i.ibb.co/Mk8YtDW/5859915.jpg",
+    "cover": "https://i.ibb.co/Xjvn4tV/4.jpg",
     "title": "Sample Article 4",
-    "author_img": "https://i.ibb.co/RP4Zx2H/relaxing-with-book-latte.jpg",
+    "author": "Salman kakku",
+    "author_img": "https://i.ibb.co/FHjGqjY/girl2.jpg",
     "posted_date": "2023-09-08",
     "reading_time": 15,
     "hashtags": ["#example", "#sample", "#data"]
@@ -39,6 +43,7 @@
     "id": 5,
     "cover": "https://i.ibb.co/Mk8YtDW/5859915.jpghttps://i.ibb.co/nm1Z4Yb/5876625.jpg",
     "title": "Sample Article 5",
+    "author": "Harry john",
     "author_img": "https://i.ibb.co/2MC62Gg/img-5.jpg",
     "posted_date": "2023-09-07",
     "reading_time": 7,
